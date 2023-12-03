@@ -2,7 +2,7 @@
 
 The samples in this repository demonstrate how to use different aspects of Xamarin.Forms to build cross-platform apps for iOS, Android, and the Universal Windows Platform (UWP). Please visit Microsoft [code sample browser](https://docs.microsoft.com/samples/browse/?term=Xamarin.Forms) to download individual samples.
 
-For additional platform support, visit the following forks:
+For additional platform support, visit the following forks: 
 
 - Tizen: https://github.com/Samsung/xamarin-forms-samples 
 - GTK#: https://github.com/jsuarezruiz/xamarin-forms-samples/tree/gtk
